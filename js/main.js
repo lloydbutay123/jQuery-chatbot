@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(function(){
 
     var username = "";
     function send_message(message) {
