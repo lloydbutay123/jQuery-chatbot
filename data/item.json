@@ -1,0 +1,19 @@
+{
+    "items": [{
+        "name" : "Santa Monica",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati officiis.",
+        "price" : "499",
+        "more-info" : "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+
+    } , {
+        "name" : "Recife",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati officiis.",
+        "price" : "499",
+        "more-info" : "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    } , {
+        "name" : "Long Beach",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati officiis.",
+        "price" : "499",
+        "more-info" : "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    }]
+}
